@@ -1,0 +1,15 @@
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\bin\Debug\net6.0\text_based_rpg.exe
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\bin\Debug\net6.0\text_based_rpg.deps.json
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\bin\Debug\net6.0\text_based_rpg.runtimeconfig.json
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\bin\Debug\net6.0\text_based_rpg.dll
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\bin\Debug\net6.0\text_based_rpg.pdb
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.csproj.AssemblyReference.cache
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.AssemblyInfoInputs.cache
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.AssemblyInfo.cs
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.csproj.CoreCompileInputs.cache
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.dll
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\refint\text_based_rpg.dll
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.pdb
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\text_based_rpg.genruntimeconfig.cache
+C:\Users\coryr\source\repos\text_based_rpg\text_based_rpg\obj\Debug\net6.0\ref\text_based_rpg.dll
